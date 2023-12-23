@@ -85,16 +85,6 @@ void Error_Handler(void);
 #define STLK_VCP_RX_GPIO_Port GPIOD
 #define STLK_VCP_TX_Pin GPIO_PIN_9
 #define STLK_VCP_TX_GPIO_Port GPIOD
-#define USB_FS_OVCR_Pin GPIO_PIN_7
-#define USB_FS_OVCR_GPIO_Port GPIOG
-#define USB_FS_VBUS_Pin GPIO_PIN_9
-#define USB_FS_VBUS_GPIO_Port GPIOA
-#define USB_FS_ID_Pin GPIO_PIN_10
-#define USB_FS_ID_GPIO_Port GPIOA
-#define USB_FS_DM_Pin GPIO_PIN_11
-#define USB_FS_DM_GPIO_Port GPIOA
-#define USB_FS_DP_Pin GPIO_PIN_12
-#define USB_FS_DP_GPIO_Port GPIOA
 #define SWDIO_Pin GPIO_PIN_13
 #define SWDIO_GPIO_Port GPIOA
 #define SWCLK_Pin GPIO_PIN_14
